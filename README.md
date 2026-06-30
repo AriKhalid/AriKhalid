@@ -14,17 +14,20 @@ All-in-one delivery platform with integrated wallet & in-app payments. Inspired 
 
 ### 🚚 Havvas — Grocery Delivery App
 On-demand multi-category delivery platform for the Kurdish market.  
-`Flutter` `Node.js` `MySQL` `Firebase`  
-[App Store](#)
+`Flutter` `Node.js` `MySQL` `Firebase`
+
+### 🛟 StayAlive — Daily Check-in Safety App
+Users confirm "I'm safe today" on a schedule; trusted groups are alerted on a missed check-in. Production-minded backend: JWT auth, Apple/Google Sign-in, read/write DB split, rate limiting.  
+`Node.js` `Express` `MySQL` `Firebase` `JWT`  
+[Backend on GitHub](https://github.com/AriKhalid/stayalive-backend)
 
 ### 💬 Daily Quotes — iOS App
-Motivational quotes app with clean minimalist UI.  
-`Flutter` `Dart`  
-[App Store](#)
+Motivational quotes app with a clean, minimalist UI.  
+`Flutter` `Dart`
 
 ### 🧠 Persona Simulator
-Pitch any business idea to 100 AI personas with distinct Big Five personalities. Get structured buy/ignore/skeptical feedback in seconds.  
-`Python` `Claude API` `Async` `Structured Outputs`  
+Pitch any business idea to 100 AI personas with distinct Big Five personalities. Get structured buy/ignore/skeptical feedback in seconds — with a 2D & 3D visual mode.  
+`Node.js` `Claude API` `Three.js`  
 [GitHub](https://github.com/AriKhalid/persona-simulator)
 
 ---
@@ -41,5 +44,4 @@ Automating operational workflows: PDF parsing of construction files, order & app
 
 ---
 
-## Goal
-Full independence through my own products.
+Open to working-student & junior developer roles. Reach me at arikhalid193@gmail.com
