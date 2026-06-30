@@ -1,6 +1,6 @@
 # Ari Khalid
 
-Full-Stack Developer · Master's in Business Informatics · Based in Germany, from Kurdistan/Iraq
+Full-Stack Developer · Master's in Business Informatics · Based in Germany
 
 I build real products for underserved markets — shipped, live, on the App Store.
 
