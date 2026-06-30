@@ -10,7 +10,8 @@ I build real products for underserved markets — shipped, live, on the App Stor
 
 ### 🛍️ NM Online — Super App (Kurdistan)
 All-in-one delivery platform with integrated wallet & in-app payments. Inspired by Chinese super app ecosystems.  
-`Flutter` `Express.js` `Redis` `MariaDB` `Linux`
+`Flutter` `Express.js` `Redis` `MariaDB` `Linux`  
+[📲 App Store](https://apps.apple.com/de/app/nm-online/id6670571903)
 
 ### 🚚 Havvas — Grocery Delivery App
 On-demand multi-category delivery platform for the Kurdish market.  
