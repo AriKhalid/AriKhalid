@@ -14,16 +14,18 @@ All-in-one delivery platform with integrated wallet & in-app payments. Inspired 
 
 ### 🚚 Havvas — Grocery Delivery App
 On-demand multi-category delivery platform for the Kurdish market.  
-`Flutter` `Node.js` `MySQL` `Firebase`
+`Flutter` `Node.js` `MySQL` `Firebase`  
+[📲 App Store](https://apps.apple.com/de/app/havvas/id6757678303)
 
 ### 🛟 StayAlive — Daily Check-in Safety App
 Users confirm "I'm safe today" on a schedule; trusted groups are alerted on a missed check-in. Production-minded backend: JWT auth, Apple/Google Sign-in, read/write DB split, rate limiting.  
-`Node.js` `Express` `MySQL` `Firebase` `JWT`  
-[Backend on GitHub](https://github.com/AriKhalid/stayalive-backend)
+`Flutter` `Node.js` `Express` `MySQL` `Firebase` `JWT`  
+[App on GitHub](https://github.com/AriKhalid/StayAlive) · [Backend on GitHub](https://github.com/AriKhalid/stayalive-backend)
 
-### 💬 Daily Quotes — iOS App
-Motivational quotes app with a clean, minimalist UI.  
-`Flutter` `Dart`
+### 💬 QuoteRise — Daily Motivational Quotes (iOS)
+Minimal app delivering a fresh quote daily, with a home screen widget, push notifications and 11 languages.  
+`Flutter` `Dart`  
+[📲 App Store](https://apps.apple.com/app/id6775193109) · [GitHub](https://github.com/AriKhalid/QuoteRise)
 
 ### 🧠 Persona Simulator
 Pitch any business idea to 100 AI personas with distinct Big Five personalities. Get structured buy/ignore/skeptical feedback in seconds — with a 2D & 3D visual mode.  
