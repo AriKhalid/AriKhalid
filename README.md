@@ -27,6 +27,11 @@ Minimal app delivering a fresh quote daily, with a home screen widget, push noti
 `Flutter` `Dart`  
 [📲 App Store](https://apps.apple.com/app/id6775193109) · [GitHub](https://github.com/AriKhalid/QuoteRise)
 
+### 📐 ProofSiteAI — Tamper-Proof Site Documentation
+Mobile-first PWA for trades: burns GPS, address & timestamp into before/after photos, captures a signature, and exports a revision-proof evidence PDF. Built in ~3h at a University of Siegen hackathon — no framework.  
+`Vanilla JS` `Canvas` `Node.js` `Express` `sharp` `pdfkit`  
+[Live demo](https://www.mundis.online) · [GitHub](https://github.com/AriKhalid/proofsiteai)
+
 ### 🧠 Persona Simulator
 Pitch any business idea to 100 AI personas with distinct Big Five personalities. Get structured buy/ignore/skeptical feedback in seconds — with a 2D & 3D visual mode.  
 `Node.js` `Claude API` `Three.js`  
